@@ -1,2 +1,2 @@
 # Platzi Intelligence Agency Web
-Platzi Intelligence Agency Website
+Part of Curso de Scrapy 🕷
